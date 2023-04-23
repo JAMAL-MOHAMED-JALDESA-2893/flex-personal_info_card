@@ -18,6 +18,23 @@ body{
     margin-top: 50vh;
     transform: translateY(-50%);
     background-color: #f4d7d7;
+    padding: 2rem 4rem;
+}
+
+.profile-cards__card{
+    display: flex;
+    align-items: center;
+   
+}
+
+.profile-cards__card--info__name{
+     font-size: 2rem;
+     font-weight: 700;
+     margin-bottom: 1rem;
+}
+
+.profile-cards__card--info__role{
+    font-size: 1.5rem;
 }
 
 .profile-cards__card--img{
