@@ -16,7 +16,8 @@ body{
     display: flex;
     justify-content: space-evenly;
     margin-top: 50vh;
-    transform: translateY(-50);
+    transform: translateY(-50%);
+    background-color: #f4d7d7;
 }
 
 .profile-cards__card--img{
