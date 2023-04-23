@@ -24,7 +24,7 @@ body{
 .profile-cards__card{
     display: flex;
     align-items: center;
-   
+   column-gap: 2rem;
 }
 
 .profile-cards__card--info__name{
