@@ -15,4 +15,14 @@ body{
 .profile-cards{
     display: flex;
     justify-content: space-evenly;
+    margin-top: 50vh;
+    transform: translateY(-50);
+}
+
+.profile-cards__card--img{
+    height: 20rem;
+    width: 20rem;
+    object-fit: cover;
+    border-radius: 50%;
+
 }
