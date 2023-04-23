@@ -35,6 +35,7 @@ body{
 
 .profile-cards__card--info__role{
     font-size: 1.5rem;
+    color: rgba(0 0 0 /0.5);
 }
 
 .profile-cards__card--img{
